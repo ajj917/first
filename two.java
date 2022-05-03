@@ -1,0 +1,7 @@
+public stat void
+
+{
+
+Hello
+
+}
